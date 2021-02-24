@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  padding: 20px;
+  border-bottom: 3px solid #ccc;
+  margin-bottom: 60px;
+}
+
+body {
+  padding-bottom: 50px;
+}
+.nes-progress {
+  height: 25px;
+}
+
+section {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
